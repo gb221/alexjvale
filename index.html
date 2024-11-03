@@ -15,12 +15,28 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             function updateClock() {
+                // Create date object and convert to London time
                 const now = new Date();
-                const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' };
-                const timeString = now.toLocaleTimeString('en-US', options).replace(',', '');
+                const londonTime = new Date(now.toLocaleString('en-US', { timeZone: 'Europe/London' }));
+                
+                // Configure date/time formatting options
+                const options = { 
+                    year: 'numeric',
+                    month: 'short', 
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    second: '2-digit',
+                    timeZone: 'Europe/London',
+                    timeZoneName: 'short'
+                };
+
+                // Format the time string and remove extra comma
+                const timeString = londonTime.toLocaleString('en-US', options).replace(',', '');
                 document.getElementById('clock').textContent = timeString;
             }
 
+            // Initial call and set interval to update every second
             updateClock();
             setInterval(updateClock, 1000);
         });
@@ -56,8 +72,8 @@
         <br></br>
         <p><a href="https://www.figma.com/community/plugin/920429287038206017/olive-press-image-compression" target="_blank">Olive Press</a> [Figma image compression plugin]</p>
         <span>––</span>
-        <p>&nbsp;- 16,800 users</p>
-        <p>&nbsp;- 1,550,000 compressions</p>
+        <p>&nbsp;- 21,600 users</p>
+        <p>&nbsp;- 1,750,000 compressions</p>
         <br></br>
         <p>VXI [Algorithmic Bitcoin equity trader]</p>
         <span>––</span>
