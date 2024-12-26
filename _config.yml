@@ -1,4 +1,4 @@
 collections:
   notes:
     output: true
-    permalink: /n/:title/
+    permalink: /n/:title
