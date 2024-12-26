@@ -35,8 +35,9 @@
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
         <br></br>
         <br>
-        {% for post in site.p %}
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        {% for article in site.articles %}
+        <p><a href="{{ article.url }}">{{ article.title }}</a> - {{ article.date }}</p>
+        <span>––</span>
         {% endfor %}
         <footer>
             <br>
