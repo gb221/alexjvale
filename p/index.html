@@ -39,7 +39,7 @@ layout: none
         <br></br>
         <br>
         {% for article in site.articles %}
-        <p><a href="{{ article.url }}">{{ article.title }}</a> - {{ article.date }}</p>
+        <p><a href="{{ article.url }}">{{ article.title }}</a> - {{ article.date | date: "%b %d %Y" }}</p>
         <span>––</span>
         {% endfor %}
         <footer>

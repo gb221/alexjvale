@@ -1,4 +1,4 @@
 collections:
   articles:
     output: true
-    path: p
+    permalink: /p/:title/
