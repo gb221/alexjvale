@@ -1,9 +1,12 @@
+---
+layout: none
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | Alex Vale</title>
+    <title>Posts | Alex Vale</title>
     <link rel="stylesheet" href="/resources/styles.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/resources/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon-32x32.png">
@@ -28,16 +31,18 @@
         height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <article class="container">
+    <div class="container">
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
-        <p>{{ page.title }}</p>
-        <p>{{ page.date | date: "%b %d %Y" }}</p>
+        <p>Notes</p>
+        <p>Last update:</p>
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
         <br></br>
         <br>
-        {{ content }}
+        {% for note in site.notes %}
+        <p><a href="{{ note.url }}">{{ note.title }}</a> - {{ note.date | date: "%b %d %Y" }}</p>
+        <span>––</span>
+        {% endfor %}
         <footer>
-            <br></br>
             <br></br>
             <br></br>
             <span>********************************************************************************</span>
@@ -49,6 +54,6 @@
                 <a href="mailto:work@alexjvale.com">Email</a>
             </p>
         </footer>
-    </article>
+    </div>
 </body>
 </html>
