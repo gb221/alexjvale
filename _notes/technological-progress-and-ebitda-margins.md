@@ -3,8 +3,6 @@ layout: note
 title: Technological progress and EBITDA margins
 date: 2024-12-26
 ---
-# Technological progress and EBITDA margins
-
 Industries are essentially games. Each industry has players competing to take similar inputs and produce similar outputs - faster and cheaper than everyone else. The inputs, rules, and outputs differ within each but the essence is the same.
 
 Win the game and you’ll be rewarded handsomely.
