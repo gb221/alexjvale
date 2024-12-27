@@ -47,7 +47,15 @@ hr {
 }
 
 article p {
-    margin-bottom: 20px;
+    margin-bottom: 16px !important;
+}
+
+article ol {
+    margin-block: 24px;
+}
+
+article il {
+    margin-bottom: 12px;
 }
 
 .container {
