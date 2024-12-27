@@ -40,8 +40,10 @@ layout: none
         <br></br>
         <br>
         {% for note in site.notes %}
-        <p><a href="{{ note.url }}">{{ note.title }}</a> - {{ note.date | date: "%b %d %Y" }}</p>
+        {% unless forloop.first %}
         <span>––</span>
+        {% endunless %}
+        <p><a href="{{ note.url }}">{{ note.title }}</a> - {{ note.date | date: "%b %d %Y" }}</p>
         {% endfor %}
         <footer>
             <br></br>
