@@ -24,6 +24,29 @@ a.current {
     text-decoration: none !important;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 13px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #E5E5E5;
+    text-align: left;
+}
+
+th {
+    background-color: #F7F7F7;
+    font-weight: 500;
+}
+
+hr {
+    border: none;
+    margin: 30px 0;
+}
+
 .container {
     max-width: 678px;
     padding: 60px 0 40px 0;
@@ -33,10 +56,16 @@ a.current {
 
 @media only screen and (max-width: 600px) {
 
-.container {
-    padding: 40px 0 40px 0;
-    margin: auto;
-    overflow: hidden;
-}
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    .container {
+        padding: 40px 0 40px 0;
+        margin: auto;
+        overflow: hidden;
+    }
 
 }
