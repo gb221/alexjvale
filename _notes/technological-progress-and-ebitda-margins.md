@@ -49,7 +49,7 @@ Now all of a sudden airlines could fly people at 66% of the cost they previously
 
 Like any good advantage it could be manipulated and extended. Airlines with 747s transmuted their margin expansion into offering lower prices while maintaining historic margin levels. Lower prices stimulated demand and more people flew that previously couldn’t afford to.
 
-747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s. [^1]
+747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s.[^1]
 
 Both the inputs and expected outputs of the airline game had changed.
 
@@ -94,4 +94,4 @@ The really valuable question is: which industries today have these characteristi
 
 ---
 
-[^1] Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
+[^1]: Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
