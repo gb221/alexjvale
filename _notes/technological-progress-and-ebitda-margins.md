@@ -35,7 +35,7 @@ Look at airlines. In the 1960s airliner technology was essentially linear. Want 
 
 Airlines could compete on route selection, in-flight services, and safety reputation but the biggest contributor to their game was fixed - the aircrafts.
 
-And then, in 1968, Boeing introduced a new technology to the game: the 747.
+Then, in 1968, Boeing introduced a new technology to the game: the 747.
 
 | Aircraft model | Year | Passengers | Operating cost/hr | Cost per seat/hr |
 | --- | --- | --- | --- | --- |
@@ -55,15 +55,15 @@ Both the inputs and expected outputs of the airline game had changed.
 
 So being first to harness new innovations can mean a significant EBITDA margin advantage over other players, but how long does it last?
 
-One of the most surprising things is how quickly, across all industries, advantages disappear.
+What's surprising is how quickly, across all industries, advantages disappear.
 
 They are self-levelling.
 
 As soon as one airline proved that 747s meant outputting cheaper airfares at the same margins it was clear they were winning. If other airlines wanted to maintain their positions in the market they had better start also buying 747s.
 
-When a new advantage enters the game, the competition is pressured into acquiring it - or risk death. Try and name something more persuasive.
+When a new advantage enters the game, the competition is pressured into acquiring it - or risk death. Try to name something more persuasive.
 
-This pattern has happened continually across history. Equilibrium times differ but they’re almost always <10 years and don’t particularly correlate with the size of the EBITDA margin gains. 
+This pattern has happened continually across history. Time to equilibrium differs but it's almost always <10 years and doesn't correlate with the size of the EBITDA margin gains. 
 
 | Industry | Innovation | Year | Time to equilibrium | EBITDA delta |
 | --- | --- | --- | --- | --- |
