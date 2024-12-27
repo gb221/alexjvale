@@ -114,4 +114,4 @@ The really valuable question is: which industries today have these characteristi
 
 ---
 
-[^1] Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
+[^1]: Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
