@@ -62,7 +62,8 @@ article p {
     margin-bottom: 16px !important;
 }
 
-article ol {
+article ol,
+article ul {
     margin-block: 24px;
 }
 
