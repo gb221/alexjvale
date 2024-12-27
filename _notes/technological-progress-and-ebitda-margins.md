@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Technological progress and EBITDA margins
+title: Technological innovation and EBITDA margins
 date: 2024-12-20
 ---
 Industries are essentially games. Each industry has players competing to take similar inputs and produce similar outputs - faster and cheaper than everyone else. The inputs, rules, and outputs differ within each but the essence is the same.
@@ -33,9 +33,9 @@ Look at airlines. In the 1960s airliner technology was essentially linear. Want 
 | Boeing 707-320B | 1959 | 140-189 | $1,000 | $6.30 |
 | DC-8-63 | 1966 | 150-189 | $1,100 | $6.40 |
 
-Airlines could compete on route selection, in-flight services, and safety reputations but the biggest contributor to their game was fixed.
+Airlines could compete on route selection, in-flight services, and safety reputation but the biggest contributor to their game was fixed - the aircrafts.
 
-And then in 1968 Boeing introduced a new technology to the game: the 747.
+And then, in 1968, Boeing introduced a new technology to the game: the 747.
 
 | Aircraft model | Year | Passengers | Operating cost/hr | Cost per seat/hr |
 | --- | --- | --- | --- | --- |
@@ -53,13 +53,17 @@ Both the inputs and expected outputs of the airline game had changed.
 
 -
 
-So those that first harness changes to the game can gain a significant EBITDA margin advantage over other players, but how long does it last?
+So being first to harness new innovations can mean a significant EBITDA margin advantage over other players, but how long does it last?
 
-One of the most surprising things about industry is how quickly advantages disappear. They are self-levelling.
+One of the most surprising things is how quickly, across all industries, advantages disappear.
 
-As soon as one airline showed that 747s meant outputting cheaper airfares at the same margins it was clear they were winning. If other airlines wanted to maintain their positions in the market they had better start also buying 747s.
+They are self-levelling.
 
-The competition is pressured into acquiring the new advantage - or risk death. Try and name something more persuasive.
+As soon as one airline proved that 747s meant outputting cheaper airfares at the same margins it was clear they were winning. If other airlines wanted to maintain their positions in the market they had better start also buying 747s.
+
+When a new advantage enters the game, the competition is pressured into acquiring it - or risk death. Try and name something more persuasive.
+
+This pattern has happened continually across history. Equilibrium times differ but they’re almost always <10 years and don’t particularly correlate with the size of the EBITDA margin gains. 
 
 | Industry | Innovation | Year | Time to equilibrium | EBITDA delta |
 | --- | --- | --- | --- | --- |
@@ -72,11 +76,29 @@ The competition is pressured into acquiring the new advantage - or risk death. T
 | Finance | Electronic trading | 1990s | ~4 years | +30% |
 | Imaging | Digital photography | 1990s | ~8 years | +25% |
 
+The obvious next question then is “What makes it stickier?”.
+
+The best conditions seem to be:
+
+1. **High copying friction.** Not just patents or trade secrets, but real operational complexity. Amazon's fulfilment network isn't valuable because it's secret - it's valuable because it's hard to build. The steam engine wasn't enough - you needed the whole railway network.
+2. **Compoundable.** The really good innovations get better with scale. TSMC doesn’t particularly focus on *making* chips; they focus on getting *better* at making chips faster than anyone else. Each generation of process technology builds on the last and forms a compounding moat.
+3. **Valuable ecosystems.** Innovations that create systems where staying becomes increasingly valuable, like how each AWS or Google Cloud service makes the next one more useful.
+4. **Regulatory moats.** The surprising thing about railroads wasn't that they made money - it was how regulation eventually protected their margins by increasing barriers to entry. The best technological advantages often end up wrapped in regulatory frameworks that institutionalise them.
+
+The 747 case is a great anti-example of sticky innovation. Airlines couldn't keep the margin expansion because:
+
+- The innovation was purchasable (just buy the plane)
+- There was no compounding gain with the rest of their fleet
+- Customers faced no cost switching between airlines
+- There was no regulatory moat
+
 -
 
-So what makes an industry ripe for EBITDA margin expansion? The most interesting thing about these opportunities is that they tend to appear alongside specific structural inefficiencies:
+It’s clear that some innovations are stickier than others, but are some industries more ripe for EBITDA margin expansion?
 
-1. **High transaction costs.** Industries where a lot of value is lost in the process of doing business. Commercial real estate leasing is a classic example, ~6% of the transaction goes to brokerage fees, legal review, and documentation processing - none of these add value to the ‘matching’ of tenant to real estate space.
+The most interesting thing about these opportunities is that great ones *do* tend to appear alongside specific structural inefficiencies:
+
+1. **High transaction costs.** Industries where a lot of value is lost in the process of doing business. Commercial real estate leasing is a classic example, ~6% of the transaction goes to brokerage fees, legal reviews, and document processing - none of these add value to the ‘matching’ of tenant to real estate space.
 2. **Artificial capacity constraints.** Industries where capacity isn't really limited by physics or economics, but by organisational structure. Before container ports were standardised different loading systems and incompatible container sizes significantly reduced efficiency.
 3. **Misaligned middle-men.** Industries with powerful middle-men who aren't adding value proportional to their take. Travel agents and the internet are a classic example. Agents weren't bad actors, they just weren’t necessary after the internet hit the mainstream.
 4. **Hidden cross-subsidies.** When one customer group is unknowingly subsidising another, there's usually room for EBITDA expansion by segmenting properly. Enterprise software lived off this for years - the same product would cost $1M or $10K depending on the customer's size. Find the segment subsidising another, solely target them, remove the subsidy, and lower your prices.
@@ -92,4 +114,4 @@ The really valuable question is: which industries today have these characteristi
 
 ---
 
-[^1]: Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
+[^1] Notably Boeing had also changed their own game. Demand for 747s skyrocketed and other aircraft manufacturers were forced into creating equally efficient aircraft. The expected output of the industry had changed.
