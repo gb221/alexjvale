@@ -47,7 +47,7 @@ Now all of a sudden airlines could fly people at 66% of the cost they previously
 
 Like any good advantage it could be manipulated and extended. Airlines with 747s transmuted their margin expansion into offering lower prices while maintaining historic margin levels. Lower prices stimulated demand and more people flew that previously couldn’t afford to.
 
-747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s.[^1]
+747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s. [^1]
 
 Both the inputs and expected outputs of the airline game had changed.
 
@@ -74,13 +74,13 @@ The competition is pressured into acquiring the new advantage - or risk death. T
 
 -
 
-So what makes an industry ripe for EBITDA margin expansion? The most interesting thing about these opportunities is that they tend to appear in alongside specific structural inefficiencies:
+So what makes an industry ripe for EBITDA margin expansion? The most interesting thing about these opportunities is that they tend to appear alongside specific structural inefficiencies:
 
-1. High transaction costs. Industries where a lot of value is lost in the process of doing business. Commercial real estate leasing is a classic example, ~6% of the transaction goes to brokerage fees, legal review, and documentation processing - none of these add value to the ‘matching’ of tenant to real estate space.
-2. Artificial capacity constraints. Industries where capacity isn't really limited by physics or economics, but by organisational structure. Before container ports were standardised different loading systems and incompatible container sizes significantly reduced efficiency.
-3. Misaligned middle-men. Industries with powerful middle-men who aren't adding value proportional to their take. Travel agents and the internet are a classic example. Agents weren't bad actors, they just weren’t necessary after the internet hit the mainstream.
-4. Hidden cross-subsidies. When one customer group is unknowingly subsidising another, there's usually room for EBITDA expansion by segmenting properly. Enterprise software lived off this for years - the same product would cost $1M or $10K depending on the customer's size. Find the segment subsidising another, solely target them, remove the subsidy, and lower your prices.
-5. Manual processes at scale. Any industry where humans are doing repetitive tasks at massive scale is basically asking to be disrupted. The interesting part isn't replacing the humans - it's capturing some of the savings as margin instead of passing it all to customers.
+1. **High transaction costs.** Industries where a lot of value is lost in the process of doing business. Commercial real estate leasing is a classic example, ~6% of the transaction goes to brokerage fees, legal review, and documentation processing - none of these add value to the ‘matching’ of tenant to real estate space.
+2. **Artificial capacity constraints.** Industries where capacity isn't really limited by physics or economics, but by organisational structure. Before container ports were standardised different loading systems and incompatible container sizes significantly reduced efficiency.
+3. **Misaligned middle-men.** Industries with powerful middle-men who aren't adding value proportional to their take. Travel agents and the internet are a classic example. Agents weren't bad actors, they just weren’t necessary after the internet hit the mainstream.
+4. **Hidden cross-subsidies.** When one customer group is unknowingly subsidising another, there's usually room for EBITDA expansion by segmenting properly. Enterprise software lived off this for years - the same product would cost $1M or $10K depending on the customer's size. Find the segment subsidising another, solely target them, remove the subsidy, and lower your prices.
+5. **Manual processes at scale.** Any industry where humans are doing repetitive tasks at massive scale is basically asking to be disrupted. The interesting part isn't replacing the humans - it's capturing some of the savings as margin instead of passing it all to customers.
 
 The best opportunities usually have several of these characteristics layered together. Retail stock trading pre-Robinhood had high transaction costs, unnecessary middle-men, cross-subsidies, and manual processes.
 
