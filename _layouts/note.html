@@ -28,7 +28,7 @@
         height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <article class="container">
+    <div class="container">
         <p><a href="/">About</a> <a href="/n">Notes</a></p>
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
         <p>{{ page.title }}</p>
@@ -36,7 +36,9 @@
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
         <br></br>
         <br>
-        {{ content }}
+        <article>
+            {{ content }}
+        </article>
         <footer>
             <br></br>
             <br></br>
@@ -49,6 +51,6 @@
                 <a href="mailto:work@alexjvale.com">Email</a>
             </p>
         </footer>
-    </article>
+    </div>
 </body>
 </html>
