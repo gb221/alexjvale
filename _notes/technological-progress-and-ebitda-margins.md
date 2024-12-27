@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Technological progress and EBITDA margins
-date: 2024-12-26
+date: 2024-12-20
 ---
 Industries are essentially games. Each industry has players competing to take similar inputs and produce similar outputs - faster and cheaper than everyone else. The inputs, rules, and outputs differ within each but the essence is the same.
 
@@ -47,7 +47,7 @@ Now all of a sudden airlines could fly people at 66% of the cost they previously
 
 Like any good advantage it could be manipulated and extended. Airlines with 747s transmuted their margin expansion into offering lower prices while maintaining historic margin levels. Lower prices stimulated demand and more people flew that previously couldn’t afford to.
 
-747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s. [^1]
+747-equipped airlines now had cheaper prices and a growing share of the market. Other airlines were forced to match their economics and soon everyone was buying 747s.[^1]
 
 Both the inputs and expected outputs of the airline game had changed.
 
@@ -61,7 +61,7 @@ As soon as one airline showed that 747s meant outputting cheaper airfares at the
 
 The competition is pressured into acquiring the new advantage - or risk death. Try and name something more persuasive.
 
-| Industry | Innovation | Year | Equilibrium time | EBITDA delta |
+| Industry | Innovation | Year | Time to equilibrium | EBITDA delta |
 | --- | --- | --- | --- | --- |
 | Steel | Bessemer process | 1856 | ~10 years | +40% |
 | Autos | Automated assembly line | 1913 | ~12 years | +20% |
