@@ -30,7 +30,7 @@ Now what happens when the game changes?
 
 Look at airlines. In the 1960s airliner technology was essentially linear. Want fly 5x more people? You’ll need to buy 5x more planes.
 
-| Aircraft model | Year | Passenger capacity | Operating cost/hr | Cost per seat-hr |
+| Aircraft model | Year | Passengers | Operating cost/hr | Cost per seat/hr |
 | --- | --- | --- | --- | --- |
 | Boeing 707-320B | 1959 | 140-189 | $1,000 | $6.30 |
 | DC-8-63 | 1966 | 150-189 | $1,100 | $6.40 |
@@ -39,7 +39,7 @@ Airlines could compete on route selection, in-flight services, and safety reputa
 
 And then in 1968 Boeing introduced a new technology to the game: the 747.
 
-| Aircraft model | Year | Passenger capacity | Operating cost/hr | Cost per seat/hr |
+| Aircraft model | Year | Passengers | Operating cost/hr | Cost per seat/hr |
 | --- | --- | --- | --- | --- |
 | Boeing 707-320B | 1959 | 140-189 | $1,000 | $6.30 |
 | DC-8-63 | 1966 | 150-189 | $1,100 | $6.40 |
@@ -63,7 +63,7 @@ As soon as one airline showed that 747s meant outputting cheaper airfares at the
 
 The competition is pressured into acquiring the new advantage - or risk death. Try and name something more persuasive.
 
-| Industry | Technical innovation | Year | Time to equilibrium | EBITDA margin delta |
+| Industry | Innovation | Year | Equilibrium time | EBITDA delta |
 | --- | --- | --- | --- | --- |
 | Steel | Bessemer process | 1856 | ~10 years | +40% |
 | Autos | Automated assembly line | 1913 | ~12 years | +20% |

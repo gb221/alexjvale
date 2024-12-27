@@ -32,19 +32,22 @@ table {
 }
 
 th, td {
-    padding: 12px;
+    padding: 8px 12px ;
     border: 1px solid #E5E5E5;
     text-align: left;
 }
 
 th {
     background-color: #F7F7F7;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 hr {
-    border: none;
     margin: 30px 0;
+}
+
+article p {
+    margin-bottom: 20px;
 }
 
 .container {
