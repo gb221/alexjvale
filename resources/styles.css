@@ -21,7 +21,7 @@ a {
 }
 
 a.current {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .container {
