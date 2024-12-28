@@ -2,3 +2,5 @@ collections:
   notes:
     output: true
     permalink: /n/:title
+plugins:
+  - jekyll-redirect-from
