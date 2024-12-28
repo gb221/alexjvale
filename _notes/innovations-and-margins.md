@@ -1,9 +1,10 @@
 ---
 layout: note
-title: Technological innovation and EBITDA margins
+title: Technological innovations and EBITDA margins
 date: 2024-12-26
 redirect_from:
   - /n/technological-progress-and-ebitda-margins
+  - /n/technological-innovation-and-ebitda-margins
 ---
 Industries are essentially games. Each industry has players competing to take similar inputs and produce similar outputs - faster and cheaper than everyone else. The inputs, rules, and outputs differ within each but the essence is the same.
 
