@@ -78,6 +78,16 @@ article li {
     overflow: hidden;
 }
 
+.newsletter-container {
+    margin-top: 48px;
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+.substack-iframe {
+    width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
 
     table {
