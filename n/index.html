@@ -39,7 +39,8 @@ layout: none
         <span>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
         <br></br>
         <br>
-        {% for note in site.notes %}
+        {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+        {% for note in sorted_notes %}
         {% unless forloop.first %}
         <span>––</span>
         {% endunless %}
