@@ -43,7 +43,6 @@ Let’s break them down.
 In 2023 BCG and the Harvard Business School released [a research paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321#). It looked at how their consultants performed on a series of tests - some were given access to GPT-4, and some weren’t. The results were decidedly clear: access to AI made the consultants >20% better at their jobs.
 
 ![bcg-study-quality-curves.png](/resources/images/bcg-study-quality-curves.png)
-*'GPT + Overview' were a cohort who were given prompt engineering tutorials beforehand*
 
 BCG’s entire business model revolves around selling their consultants’ time and their entire moat revolves around their association with quality. Now, for a tiny fraction of their annual salaries, their consultants are provably 20% better.
 
