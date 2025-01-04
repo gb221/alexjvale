@@ -71,6 +71,12 @@ article li {
     margin-bottom: 12px;
 }
 
+article image {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .container {
     max-width: 678px;
     padding: 60px 0;
