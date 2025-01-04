@@ -71,8 +71,7 @@ article li {
     margin-bottom: 12px;
 }
 
-article img,
-article p > img {
+img {
     width: 100%;
     margin-top: 20px;
     margin-bottom: 20px;
