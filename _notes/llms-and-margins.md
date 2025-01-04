@@ -1,6 +1,6 @@
 ---
 layout: note
-title: What LLMs means for EBITDA margins
+title: What LLMs mean for EBITDA margins
 date: 2025-01-04
 ---
 This is a follow-on from a note on [how adopting SaaS impacted industry’s EBITDA margins](/n/saas-and-margins).
