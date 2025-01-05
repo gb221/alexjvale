@@ -1,6 +1,6 @@
 ---
 layout: note
-title: SaaS adoption’s impact on EBITDA margins
+title: How SaaS replaced on-prem and impacted EBITDA margins
 date: 2024-12-29
 ---
 This is a follow-on from a note on how [technological innovations improve EBITDA margins](/n/innovations-and-margins).
